@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "My Chrome Extension",
+  "name": "phantom-wallet",
   "description": "A Chrome extension with side panel functionality built with Vite and React",
   "version": "1.0.0",
 

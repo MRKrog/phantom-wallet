@@ -1,5 +1,5 @@
 {
-  "name": "my-chrome-extension",
+  "name": "phantom-wallet",
   "version": "1.0.0",
   "description": "A Chrome extension development template with Vite, React, and Material-UI components",
   "type": "module",
